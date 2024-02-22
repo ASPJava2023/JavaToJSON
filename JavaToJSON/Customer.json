@@ -1,0 +1,11 @@
+{
+	"cid": 101,
+	"address": {
+		"street": "10/20",
+		"city": "Indore",
+		"state": "M.P",
+		"zip": 456010
+	},
+	"cname": "Ram",
+	"clastName": "Lal"
+}
